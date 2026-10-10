@@ -1,0 +1,9 @@
+mlflow.db
+tmp_report.db
+mlartifacts/
+mlruns/
+.venv/
+__pycache__/
+.DS_Store
+data/last_eval.json
+Laporan_*
